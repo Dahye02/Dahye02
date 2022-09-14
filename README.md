@@ -10,7 +10,7 @@
 KITRI BoB 11th<br/>
 CJ WhiteHat-Together 1st<br/>
 LG CNS Assistant Instructor (Elementary-Class Coding Special-Lecture)<br/>
-Educational-Institute Elementary-Class Coding Instructor<br/>
+Elementary-Class Educational-Institute Coding Instructor<br/>
 
 <br/><br/><br/>
 # :notebook_with_decorative_cover:Studying:notebook_with_decorative_cover: #
