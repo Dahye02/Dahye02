@@ -1,13 +1,15 @@
 <div align="center">
 
-## 👋About Me👋 ##
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:B993D6,100:e35d5b&height=200&section=header&fontAlign=85&fontAlignY=40&text=Hello!&fontSize=60&fontColor=dedad1" /><br/><br/><br/>
+
+# 👋About Me👋 #
 <a href="https://www.instagram.com/dahye02114/"><img src="https://img.shields.io/badge/Instagram-EB959B?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100018633610910"><img src="https://img.shields.io/badge/Facebook-83A2EB?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://dajjang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EB9B6E?style=flat-square&logo=tistory&logoColor=white"/></a><br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahye02%2F&count_bg=%23E9C5C5&title_bg=%23E18D8D&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false"/></a>
 
 <br/><br/><br/>
-## :notebook_with_decorative_cover:Studying:notebook_with_decorative_cover: ##
+# :notebook_with_decorative_cover:Studying:notebook_with_decorative_cover: #
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flag-square&logo=C&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C++-00599C?style=flag-square&logo=C%2B%2B&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-92ACEB?style=flag-square&logo=Java&logoColor=black"></img>
@@ -21,9 +23,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flag-square&logo=Linux&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flag-square&logo=Ubuntu&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flag-square&logo=CentOS&logoColor=white"></img>
+<br/><br/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:B993D6,100:e35d5b&height=100&section=footer" />
 </div>
-<br/><br/><br/>
-
+<br/><br/><br/><br/>
 <!--
 **Dahye02/Dahye02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
