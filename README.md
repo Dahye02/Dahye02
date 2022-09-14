@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:B993D6,100:e35d5b&height=200&section=header&fontAlign=85&fontAlignY=40&text=Hello!&fontSize=60&fontColor=dedad1" /><br/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:B993D6,100:e35d5b&height=200&section=header&fontAlign=85&fontAlignY=40&text=Hello!&fontSize=60&fontColor=dedad1" /><br/>
 
 # 👋About Me👋 #
 <a href="https://www.instagram.com/dahye02114/"><img src="https://img.shields.io/badge/Instagram-EB959B?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100018633610910"><img src="https://img.shields.io/badge/Facebook-83A2EB?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://dajjang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EB9B6E?style=flat-square&logo=tistory&logoColor=white"/></a><br/><br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahye02%2F&count_bg=%23E9C5C5&title_bg=%23E18D8D&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahye02%2F&count_bg=%23E9C5C5&title_bg=%23E18D8D&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false"/></a><br/><br/>
+KITRI BoB 11th<br/>
+CJ WhiteHat-Together 1st<br/>
+LG CNS Assistant Instructor (Elementary-Class Coding Special-Lecture)<br/>
+Educational-Institute Elementary-Class Coding Instructor<br/>
 
 <br/><br/><br/>
 # :notebook_with_decorative_cover:Studying:notebook_with_decorative_cover: #
@@ -23,7 +27,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flag-square&logo=Linux&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flag-square&logo=Ubuntu&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flag-square&logo=CentOS&logoColor=white"></img>
-<br/><br/><br/><br/>
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:B993D6,100:e35d5b&height=100&section=footer" />
 </div>
 <br/><br/><br/><br/>
